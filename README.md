@@ -51,4 +51,13 @@
 ![Slack_bot2](https://user-images.githubusercontent.com/29342375/82158221-1ace2f00-98a4-11ea-86ed-b1752d0583d4.JPG)
 
 
+# Summary
+The web application has been created for searching the news which is based on artificial intelligence technology and cloud technology. The users can able to search the news by querying the Watson discovery through the user interface (UI) created using Node-Red editor. The Watson discovery which is incorporated into the node-red can able to crawl the news collection to provide the appropriate news to the users. The users can able to get the news through slack medium by utilizing a news bot called AI-news-bot that has been configured into it which also utilizes Watson discovery to retrieve the news. This helps users to request and get response in a more interactive manner. In a nutshell the AI based news search app is used to retrieve the news based on user requested query by utilizing the Watson discovery service from IBM cloud and also able to respond to the slack search requests.
+
+
+# URL of UI
+https://node-red-olzul.mybluemix.net/ui
+
+
+
 
