@@ -17,7 +17,7 @@
 1.  The user interacts with the user interface (UI) created using Node-Red.
 2.  The query from the user sends to the Watson discovery of IBM cloud.
 3.  The Watson Discovery Service is continually crawling the web to update its Discovery News collection.
-4.  Watson discovery sends the requested news through the Node-Red app to the user. 
+4.  Watson discovery sends the requested news through the Node-Red app to the user.<br>
 5, 6. Watson discovery also responds to the Slack search requests through the AI-news-bot.
 
 # RESULTS
