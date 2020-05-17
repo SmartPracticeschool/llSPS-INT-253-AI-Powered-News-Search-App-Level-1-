@@ -14,10 +14,10 @@ The technology often provides solution to any kind of unsolvable problems. In su
 
 ![bl](https://user-images.githubusercontent.com/29342375/82158010-a5159380-98a2-11ea-9712-fd254acfddcf.JPG)
 
-The user interacts with the user interface (UI) created using Node-Red.
-The query from the user sends to the Watson discovery of IBM cloud.
-The Watson Discovery Service is continually crawling the web to update its Discovery News collection.
-Watson discovery sends the requested news through the Node-Red app to the user. 
+1.  The user interacts with the user interface (UI) created using Node-Red.
+2.  The query from the user sends to the Watson discovery of IBM cloud.
+3.  The Watson Discovery Service is continually crawling the web to update its Discovery News collection.
+4.  Watson discovery sends the requested news through the Node-Red app to the user. 
 5, 6. Watson discovery also responds to the Slack search requests through the AI-news-bot.
 
 
