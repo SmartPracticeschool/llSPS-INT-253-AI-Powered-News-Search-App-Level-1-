@@ -25,17 +25,29 @@
   
   Moreover this application has been designed to provide the results automatically rather than searching them manually and it also reduces time to search for news articles and also it provides the sentimental analysis of the results.
 
-
+# HOME_PAGE
 ![Home_page](https://user-images.githubusercontent.com/29342375/82158186-f1150800-98a3-11ea-9d04-bd395713ff7d.JPG)
+
+
+# SEARCHING
 
 ![Searching1](https://user-images.githubusercontent.com/29342375/82158195-01c57e00-98a4-11ea-83d7-3ebceac4eed1.JPG)
 
+
+# SEARCHING
 ![Searching2](https://user-images.githubusercontent.com/29342375/82158194-feca8d80-98a3-11ea-82d8-53a2c68af393.JPG)
 
+
+# TRENDING_NEWS
 ![Trending_news](https://user-images.githubusercontent.com/29342375/82158200-0b4ee600-98a4-11ea-99eb-ba1965f0b51f.JPG)
 
+
+
+# SLACK_BOT (AI-news-bot)
 ![Slack_bot1](https://user-images.githubusercontent.com/29342375/82158217-186bd500-98a4-11ea-8da3-dc0712258518.JPG)
 
+
+# SLACK_BOT (AI-news-bot)
 ![Slack_bot2](https://user-images.githubusercontent.com/29342375/82158221-1ace2f00-98a4-11ea-86ed-b1752d0583d4.JPG)
 
 
