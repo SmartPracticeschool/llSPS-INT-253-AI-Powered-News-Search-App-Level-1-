@@ -18,8 +18,7 @@
 2.  The query from the user sends to the Watson discovery of IBM cloud.
 3.  The Watson Discovery Service is continually crawling the web to update its Discovery News collection.
 4.  Watson discovery sends the requested news through the Node-Red app to the user.<br>
-
-5,6. Watson discovery also responds to the Slack search requests through the AI-news-bot.
+5,6.  Watson discovery also responds to the Slack search requests through the AI-news-bot.
 
 # RESULTS
   The News search application which is based on Artificial Intelligence and cloud technology which aims to provide appropriate news articles based on the user requested query. This has been done by utilizing the concept of Watson discovery from IBM and it continually crawls the news collection to provide the news to the users rather than searching it manually. Initially the user sends the query to the Watson discovery and then the discovery gets the news from the collection and it provides to the users. This application also designed to respond to the slack search requests. The AI based news search application has been deployed in IBM cloud so that it can able to provide service to the user anywhere and at any time.<br>
