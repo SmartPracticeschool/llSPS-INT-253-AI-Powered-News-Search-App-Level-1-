@@ -22,6 +22,7 @@
 
 # RESULTS
   The News search application which is based on Artificial Intelligence and cloud technology which aims to provide appropriate news articles based on the user requested query. This has been done by utilizing the concept of Watson discovery from IBM and it continually crawls the news collection to provide the news to the users rather than searching it manually. Initially the user sends the query to the Watson discovery and then the discovery gets the news from the collection and it provides to the users. This application also designed to respond to the slack search requests. The AI based news search application has been deployed in IBM cloud so that it can able to provide service to the user anywhere and at any time.<br>
+  
   Moreover this application has been designed to provide the results automatically rather than searching them manually and it also reduces time to search for news articles and also it provides the sentimental analysis of the results.
 
 
