@@ -11,3 +11,4 @@ The news can be gathered from many ways such as by reading newspapers, tuning ou
 
 # Proposed solution
 The technology often provides solution to any kind of unsolvable problems. In such a way that above mentioned problem will also be rectified by using the concept of Artificial Intelligence and Cloud technology. To get the most relevant information for user query, Watson discovery from IBM cloud plays a significant role in handling this situation. It crawls the data collection to provide the information and this prevents the user from searching it manually. This application has been deployed in IBM cloud so that it saves time for the user to search for the appropriate news that happening around the world. The user can able to get the news from anywhere and at any time.
+![bl](https://user-images.githubusercontent.com/29342375/82158010-a5159380-98a2-11ea-9712-fd254acfddcf.JPG)
